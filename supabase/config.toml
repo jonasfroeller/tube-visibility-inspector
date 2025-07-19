@@ -1,0 +1,5 @@
+
+project_id = "oaudprgktzqxhcwoctmp"
+
+[functions.check-youtube-status]
+verify_jwt = false
